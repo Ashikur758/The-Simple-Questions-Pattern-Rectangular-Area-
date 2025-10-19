@@ -9,13 +9,14 @@ class Rectcom{
 	double perimeter = 2*(width+Height);
 
 		System.out.println("Width " + " = "+width);
-		System.out.println("Heght " + " = "+Height);
+		System.out.println("Height " + " = "+Height);
 		System.out.printf("Area = %.2f\n",area);
-		System.out.printf("Perimeter %.2f\n",perimeter);
+		System.out.printf("Perimeter = %.2f\n",perimeter);
 		
 
 }	
 
 }
+
 
 	
